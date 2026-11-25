@@ -1,0 +1,6 @@
+{
+  "name": "Project 11 - Image Gallery",
+  "description": "Interactive image gallery with detail view and audio preview built with React.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
